@@ -1,5 +1,8 @@
+## CI/CD do Projeto INPE
 
-# inpe-alertas
-
-CI/CD configurado na Aula 3
-
+- Repositório privado ✔
+- Branches organizadas ✔
+- PRs revisados ✔
+- ESLint + Prettier ✔
+- Testes com Jest ✔
+- Pipeline automatizado ✔
